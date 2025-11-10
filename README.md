@@ -16,6 +16,9 @@ Certificates
 [INTRO EXCELL CERT.pdf](https://github.com/user-attachments/files/23436502/INTRO.EXCELL.CERT.pdf)
 
 ## 📚 Case Studies
+https://github.com/B-dUB-78/B-dUB-78-Portfolio-Case-Study-Resume/blob/main/SpaceExpoCaseStudy/SpaceExplorationAndSatelliteCaseStudyScreenshoot.png
+https://github.com/B-dUB-78/B-dUB-78-Portfolio-Case-Study-Resume/blob/main/SpaceExpoCaseStudy/SpaceExplorationAndSatellitesFINAL.xlsx
+
 ### **Marvel Character Data Analysis**
 
 <img width="1937" height="2210" alt="MarvelPivotTable" src="https://github.com/user-attachments/assets/21443899-c076-49cd-b70a-85858474dbf4" />
