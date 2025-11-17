@@ -16,6 +16,12 @@ Certificates
 [INTRO EXCELL CERT.pdf](https://github.com/user-attachments/files/23436502/INTRO.EXCELL.CERT.pdf)
 
 ## 📚 Case Studies
+📂 cafe_data_cleaning/
+├── cleaned_dataset.xlsx
+├── unusable_rows.xlsx
+├── README.md
+
+
 https://github.com/B-dUB-78/B-dUB-78-Portfolio-Case-Study-Resume/blob/main/SpaceExpoCaseStudy/SpaceExplorationAndSatelliteCaseStudyScreenshoot.png
 https://github.com/B-dUB-78/B-dUB-78-Portfolio-Case-Study-Resume/blob/main/SpaceExpoCaseStudy/SpaceExplorationAndSatellitesFINAL.xlsx
 
