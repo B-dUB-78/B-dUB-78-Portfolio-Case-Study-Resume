@@ -15,7 +15,18 @@ Certificates
 [BigQueryCertificate.pdf](https://github.com/user-attachments/files/23436500/BigQueryCertificate.pdf)
 [INTRO EXCELL CERT.pdf](https://github.com/user-attachments/files/23436502/INTRO.EXCELL.CERT.pdf)
 
+
 ## 📚 Case Studies
+
+/LogisticsSupply
+   ├─ Dashboard.xlsx
+   ├─ Raw_Data.csv
+   ├─ Pivot_Tables.png
+   ├─ Dashboard_Full.png
+   ├─ Summary_Findings.txt   (optional)
+   └─ README.md
+
+
 📂 cafe_data_cleaning/
 ├── cleaned_dataset.xlsx
 ├── unusable_rows.xlsx
