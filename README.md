@@ -1,14 +1,19 @@
-# 📊 Bobby W. Hayden – Data Analytics Portfolio
+Bobby W. Hayden – Data Analytics Portfolio
 
 Welcome to my professional data analytics portfolio — a showcase of analytical, technical, and creative projects demonstrating my proficiency in Excel, Tableau, BigQuery, R, and data storytelling.
 
-## 🧠 About This Portfolio
+ About This Portfolio
 Each project in this portfolio follows the full data analysis lifecycle:
 **Ask → Prepare → Process → Analyze → Share → Act**  
 My goal is to combine data insights with creative storytelling and design for meaningful, real-world impact.
 
-## 📄 Resume
-[Bobby_Hayden_Resume_Completed (1) (1) (1).pdf](https://github.com/user-attachments/files/23436466/Bobby_Hayden_Resume_Completed.1.1.1.pdf)
+ Resume
+#Resume
+You can view or download my resume here:
+
+**[RESUMEBHNEW.docx](RESUMEBHNEW.docx)**  
+
+
 
 Certificates
 [DataAnalyticsCertificate.pdf](https://github.com/user-attachments/files/23436485/DataAnalyticsCertificate.pdf)
@@ -16,7 +21,7 @@ Certificates
 [INTRO EXCELL CERT.pdf](https://github.com/user-attachments/files/23436502/INTRO.EXCELL.CERT.pdf)
 
 
-## 📚 Case Studies
+ Case Studies
 
 /LogisticsSupply
    ├─ Dashboard.xlsx
