@@ -10,7 +10,7 @@ My goal is to combine data insights with creative storytelling and design for me
  Resume
 #Resume
 You can view or download my resume here:
-
+/Bobby_Hayden_Resume_Completed (1) (1) (1).pdf
 **[RESUMEBHNEW.docx](RESUMEBHNEW.docx)**  
 
 
